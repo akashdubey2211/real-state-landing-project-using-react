@@ -1,3 +1,3 @@
 # real-state-landing-project-using-react
-# install all the dependencies
-# npm start
+ install all the dependencies
+npm start
